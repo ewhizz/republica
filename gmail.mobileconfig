@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>au.edu.republica.email</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>531DCAD7-D976-4056-BD6B-409D2D214E76</string>
+	<key>PayloadOrganization</key>
+	<string>Republica Education</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Republica eMail</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.republica.531DCAD7-D976-4056-BD6B-409D2D214E76.alacarte.email.FAF530C5-5549-44FC-971E-3672F3C8713F</string>
+			<key>PayloadUUID</key>
+			<string>FAF530C5-5549-44FC-971E-3672F3C8713F</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Republica eMail</string>
+			<key>EmailAccountDescription</key>
+			<string>Republica eMail</string>
+			<key>disableMailRecentsSyncing</key>
+			<false/>
+			<key>PreventMove</key>
+			<false/>
+			<key>PreventAppSheet</key>
+			<false/>
+			<key>SMIMEEnabled</key>
+			<false/>
+			<key>SMIMEEnablePerMessageSwitch</key>
+			<false/>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>587</integer>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>IncomingMailServerHostName</key>
+			<string>imap.gmail.com</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>smtp.gmail.com</string>
+			<key>OutgoingPasswordSameAsIncomingPassword</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>
